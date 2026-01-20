@@ -13,7 +13,8 @@ Instead of starting directly with code, this repository first focuses on:
 
 4)Designing a clear research roadmap
 
-#Background 
+#Background
+
 What is DNS?
 
 DNS (Domain Name System) translates human-readable domain names (e.g., google.com) into IP addresses.
